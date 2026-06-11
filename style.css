@@ -79,14 +79,6 @@ body{
     margin-bottom:5px;
 }
 
-.plan-info p{
-    color:#52796f;
-}
-
-.plan-box a{
-    color:#2d6a4f;
-    font-weight:bold;
-
 .payment-btn{
     width:100%;
     padding:15px;
@@ -117,21 +109,6 @@ body{
 
 .cancel-btn:hover{
     color:#1b4332;
-}
-
-@media(max-width:480px){
-
-    .card{
-        width:100%;
-    }
-
-    .content{
-        padding:25px;
-    }
-
-    .content h1{
-        font-size:1.7rem;
-    }
 }
 
 /* display responsiveness */
